@@ -1,5 +1,10 @@
-pandas==1.2.2
-streamlit==0.81.1
 pytz
 ciso8601==2.1.3
 requests
+streamlit
+ccxt
+pandas
+numpy
+matplotlib
+seaborn
+plotly
